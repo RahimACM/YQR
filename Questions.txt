@@ -1,0 +1,354 @@
+﻿<Geographie>;quelle est la plus grande ile du monde ?;Australie;Grande Bretagne;Groenland;Madagascar
+<Geographie>;Un meandre est :;une sinuosite decrite par un cours d'eau;une vallee glaciaire;un petit vallonnement;une grotte souterraine
+<Geographie>;Quelle est la plus grande mer du monde ?;la Mediterranee;la mer Caspienne;la mer Morte;la mer Rouge
+<Geographie>;Quelle est la chaine de montagnes qui « ferme » l'Europe a l'est ?;les Alpes;le Caucase;l'Oural;l'Altaï
+<Geographie>;Dans quelle ville sont situees les plus celebres falaises de France ?;etretat;Nice;Brest;Saint-Malo
+<Geographie>;Quelle est la capitale du Bangladesh ?;Dhaka;Pekin;Paris;Kuala Lumpur
+<Geographie>;De quel pays Minsk est elle la capitale?;Bielorussie;Lettonie;Russie;Lituanie 
+<Geographie>;Quel est le plus grand pays du monde ?;Russie;Canada;USA;Sahara
+<Geographie>;Quel est le plus petit pays du monde ?;Vatican;Monaco;Andorre;Liechtenstein
+<Geographie>;De quel pays Vaduz est elle la capitale ?;Liechtenstein;France;Luxembourg;Norvege
+<Geographie>;Quelle est la capitale de la Nouvelle-Zelande ?;Wellington;Dublin;Auckland;Sydney
+<Geographie>;Ou le trouve le volcan Olympus Mons ?;Sur Mars;Sur la Lune;L'Himalaya;Dans l'Ocean Arctique
+<Geographie>;Quel pays a pour capitale Sofia ?;Bulgarie;Bielorussie;Ukraine;Moldavie
+<Geographie>;Ou se trouve le lac le plus haut du monde ?;Dans la cordillere des Andes;Sur le Kilimandjaro;Au Nevada;Au Nepal
+<Geographie>;Dans quel pays est enclavee la Republique de Saint-Marin ?;L'Italie;La Suisse;La France;L'Autriche
+<Geographie>;Quel detroit relie la mer Noire et la mer de Marmara ?;Bosphore;Beiring;Panama;Gibraltar
+<Geographie>;Dans quelle ville siege la Commission europeenne ?;Bruxelles;Luxembourg;Berlin;Strasbourg
+<Geographie>;Quel canal relie la Mediterranee a la Mer Rouge ?;Suez;Panama;Beagle;Bristol
+<Geographie>;Quel ocean separe l'Europe des etats-Unis ?;Atlantique;Pacifique;Indien;Antarctique
+<Geographie>;Dans quel pays se trouve la Foret-Noire ?;En Allemagne;En Argentine;Au Senegal;Au Canada
+<Geographie>;Quel pays a pour capitale Oulan-Bator ?;Mongolie;Montenegro;Panama;Ouzbekistan
+<Geographie>;Ou peut-on admirer les roches de l'Ayers Rock ?;En Australie;Aux etats-Unis;En Chine;En Russie
+<Geographie>;Quelle est la capitale du Pakistan ?;Islamabad;Mogadiscio;Kaboul;Karachi
+<Histoire>;Quel autre pays etait allie a la bulgarie a l’autriche-hongrie et a l’empire ottoman lors de la premiere guerre mondiale ?;Allemagne;France;Italy;Pologne 
+<Histoire>;Aux USA, dans les annees 1950, le maccarthysme fut une campagne virulente contre :;les communistes;les Noirs;les homosexuels;les Japonais
+<Histoire>;Les jeunes hommes favoris du roi Henri III s'appelaient :;les mignons;les gentils;les galants;les jolis
+<Histoire>;L'ancien peuple Azteque vivait dans l'actuel :;Mexique;Perou;Bresil;Nicaragua
+<Histoire>;On doit le Code civil a :;Napoleon Bonaparte;Leon Gambetta;Robespierre;Charles de Gaulle
+<Histoire>;Les Khmers Rouges etaient des guerilleros communistes :;cambodgiens;chinois;coreens;birmans
+<Histoire>;Qui fut le premier empereur romain ?;Auguste;Jules Cesar;Neron;Marc Antoine
+<Histoire>;Aux U.S.A, le President Bill Clinton a succede a :;George Bush;Jimmy Carter;Ronald Reagan;John F. Kennedy
+<Histoire>;Quelle maladie se propagea a la fin de la premiere guerre mondiale et fit plusieurs millions de morts ?;la grippe espagnole;la siphilis;la variole;la tuberculose
+<Histoire>;Au Moyen-Age, quel etait le nom de l'impôt verse a l'Eglise catholique ?;la dime;la gabelle;le cens;l'octroi
+<Histoire>;Le titre de Caudillo designait :;Franco;Mussolini;Che Guevara;Salazar
+<Histoire>;Quelle capitale actuelle etait appelee "Philadelphia" du temps des Romains ?;Amman;Teheran;Damas;Bagdad
+<Histoire>;Que fete t-on le 14 juillet en France ?;La fete de la federation;L'armistice de la guerre 14-18;Le debut de la V° republique;La prise de la Bastille
+<CultureGenerale>;Comment appelle-t-on un terrain plante d'arbres fruitiers ?;un verger;un potager;un bosquet;un fruitier
+<CultureGenerale>;Au Moyen-Âge, comment appelait-on les villages fortifies ?;Bastide;Tour;Château fort;Rempart
+<CultureGenerale>;Comment appelle-t-on le fruit du plaqueminier ?;Kaki;Kakou;Kacha;Kali
+<CultureGenerale>;Quel titre de noblesse est immediatement inferieur a celui de comte ?;Vicomte;Archiduc;Marquis;Duc
+<CultureGenerale>;De qui Warren Beatty est-il le frere ?;Shirley MacLaine;Elle Macpherson;Aline MacMahon;Ann-Marie MacDonald
+<CultureGenerale>;Quel os du squelette humain est le plus long et le plus solide ?;Le femur;Le radius;Le cubitus;Le carpe
+<CultureGenerale>;Quel arbre est connu pour etre le plus grand au monde ?;Le sequoia;Le chene;Le pin;Le hetre
+<CultureGenerale>;De quelle plante le nom signifie-t-il « turban » en perse ?;La tulipe;La digitale;La renoncule;La jonquille
+<CultureGenerale>;Dans le langage familier, comment appelle-t-on la dent du petit enfant ?;Quenotte;Marmotte;Menotte;Bouillotte
+<CultureGenerale>;Quel peintre, ne en 1844, est egalement appele « le Douanier » ?;Henri Rousseau;Pablo Picasso;Edgar Degas;Salvador Dali
+<CultureGenerale>;Comment appelle-t-on le versant de la montagne non situe au soleil ?;Ubac;Adret;etant;Ressac
+<CultureGenerale>;Quelle est la plus petite unite de memoire utilisable sur un ordinateur ?;Le bit;Le byte;Le mega;Le giga
+<CultureGenerale>;Quel insecte appelle-t-on aussi « la bete a bon dieu » ?;La coccinelle;La luciole;Le scarabee;La libellule
+<CultureGenerale>;Qui fut le premier europeen a arriver aux Philippines ?;Magellan;Christophe Colomb;Vasco de Gama;Mauperthuis
+<CultureGenerale>;Combien de temps dure le mandat du president des etats-Unis ?;4 ans;5 ans;7 ans;6 ans
+<CultureGenerale>;Qui a invente les tran<Sport>s en communs modernes ?;Blaise Pascal;Seraphin Lampion;Rene Descartes;Eugene Poubelle
+<CultureGenerale>;Qui etait le premier president de la republique ?;Louis-Napoleon Bonaparte;Adolphe Thiers;Charles de Gaulle;Raymond Poincare
+<CultureGenerale>;Quelle est l'unite de mesure de la force d'un piment ?;L'unite scoville;L'unite thermoptim;L'unite cherit;L'unite hauy
+<CultureGenerale>;Quel est la valeur du pH du Coca-Cola ?;5;4,2,3;5,3;7
+<CultureGenerale>;Comment se nomme le signe "&" ?;Esperluette;Heperluette;Eperluette;Eperluete
+<CultureGenerale>;Comment se nomme la peur du nombre 13 ?;La triskaidekaphobie;La katagelophobie;L'anuptaphobie;La siderodromophobie
+<Cinema>;En quelle annee le festival de Cannes fut-il cree ?;1946;1936;1939;1930
+<Cinema>;Lequel de ces episodes ne fait pas partie de la celebre serie des Indiana Jones ?;Indiana Jones et le globe de cristal;Indiana Jones et le temple maudit;Les aventuriers de l'arche perdue;Indiana Jones et la Derniere Croisade
+<Cinema>;Quel film est le plus gros succes du box-office français ?;Titanic;La grande vadrouille;Bienvenue chez les Ch'tis;Intouchables
+<Cinema>;Quel film est le plus gros succes du box-office americain ?;Titanic;Ben-Hur;Le seigneur des anneaux : le retour du roi;la ligne verte
+<Cinema>;Quelle est la phobie de Truman Burbank dans 'The Truman Show' ?;L'eau;La foule;Les araignees;les chiens
+<Cinema>;Qui est l'acteur 'fetiche' de Tim Burton ?;Johnny Depp;Deep Roy;Christopher Lee;Edgar Allan Poe
+<Cinema>;Quel est le pseudonyme du heros de Matrix, interprete par Keanu Reeves ?;Neo;Trinity;Morpheus;l'Oracle
+<Cinema>;Quel est le film le plus cher de l'<Histoire> du cinema ?;Spiderman 3;Titanic;Cleopâtre;Avatar
+<Cinema>;Avec quel film Orson Welles remporte-t-il la plame d'or en 1952 ?;Othello;Citizen Kane;Deux sous d'espoir;Le Proces
+<Cinema>;Quel film se deroule a Paris ?;Moulin rouge;Goodbye, Lenin !;Delirious;La corde
+<Cinema>;Quel realisateur a le plus grand nombre de films mentionnes dans le top 100 de l'American Film Institute ?;Steven Spielberg;George Lucas;James Cameron;Tim Burton
+<Cinema>;Dans quel film un couple en croisiere va-t-il recueillir un naufrage qui va les terrifier ?;Calme blanc;Tempete en mer;Le naufrage;Les disparus
+<Cinema>;Quel acteur français avait le premier rôle dans le film de Luchino Visconti "Le Guepard" ?;Alain Delon;Jean-Paul Belmondo;Claude Brasseur;Jean Gabin
+<Cinema>;Qui joue le rôle du nettoyeur dans le film "Nikita" ?;Jean Reno;Jean-Marc Barr;Tcheky Karyo;Jean-Hugues Anglade
+<Cinema>;Dans quelles aventures retrouve-t-on les personnages de Loïs et Clark ?;Superman;Hulk;Spiderman;Batman
+<Cinema>;Quel est le prenom de Kate Winslet dans le film "Titanic" de James Cameron ?;Rose;Liz;Carla;Jeanne
+<Cinema>;Qui joua le rôle de Donna Martin dans la serie televisee "Beverly Hills 90210" ?;Tori Spelling;Carol Potter;Jenny Garth;Tiffany Amber Thiessen
+<Musique>;Qu'est-ce qu'un chant a capella ?;Un chant sans accompagnement d'aucun instrument;Un chant execute dans une chapelle;Un chant accompagne de flûtes;Un chant religieux
+<Musique>;Quelle est la voix d'homme la plus elevee ?;La haute-contre;La basse;La baryton;Le tenor
+<Musique>;En regle generale, combien d'octaves un piano comporte-il ?;8;6;7;7et demi
+<Musique>;A quelle epoque, les premieres baguettes des chefs d'orchestre sont-elles apparues ?;A l'epoque classique;Au Moyen-Age;A l'epoque baroque;A la Renaissance
+<Musique>;Lequel de ces operas n'est pas de Mozart ?;La Traviata;Cosi fan tutte;Don Giovanni;Les Noces de Figaro
+<Musique>;L'Hymne a la joie, choisi pour etre l'Hymne europeen, est la seule partie chantee d'une oeuvre de Beethoven, de quelle oeuvre s'agit-il ?;La symphonie n°9;La symphonie n°5;La symphonie n°7;La symphonie n°6
+<Musique>;Maria Callas (1923-1977), etait l'une des plus grandes cantatrices du XXe siecle, celebre en particulier pour son interpretation talentueuse de La Traviata, de quelle origine etait-elle ?;Grecque;Italienne;Russe;Libanaise
+<Musique>;Avec quel courant musical la batterie est-elle nee ?;Le jazz;Le romantisme;Le blues;Le rock
+<Musique>;Qui chantait:' Love me tender '?;Elvis Presley;Bill Haley;Jerry Lee Lewis;Chuck Berry
+<Musique>;Qui chantait:'J' suis le pornographe du phonographe, le polisson de la chanson ' ?;Georges Brassens;Serge Gainsbourg;Renaud;Leo Ferre
+<Musique>;Dans les annees 1980, quel groupe musical a chante le titre "Shout" ?;Tears For Fears;Queen;U2;Simple Minds
+<Sport>;De combien de joueurs se compose une equipe de basket-ball ?;5;6;11;7
+<Sport>;Split, Spare, Strike... Vous pouvez entendre ces termes...;au bowling;au football americain;au billard;au basket-ball
+<Sport>;La premiere course automobile officielle s'etant deroulee en 1895 (Paris-Bordeaux-Paris), en quelle annee a ete rendu obligatoire le port du casque ?;1952;1950;1949;1955
+<Sport>;Quelle est la largeur d'un but de football ?;7,32 m;7,40 m;6,10 m;8,00 m
+<Sport>;Quel est le nombre maximum de rameurs en Aviron ?;8;7;9;6
+<Sport>;Avant le combat, que jettent les sumotoris au centre de la piste ?;du sel;du sucre;du poivre;de la poudre
+<Sport>;Combien de periodes compte un match de hockey sur glace ?;3;2;4;5
+<Sport>;"Field Goal", "Kick off", "Touchdown" sont des termes de ...;football americain;tennis;handball;basketball
+<Sport>;Le score maximum pour une partie de bowling est de :;300;200;250;350
+<Sport>;Avant de prendre le rôle de Tarzan, John Weissmuller etait champion...;de natation;de judo;de boxe;de karate
+<Sport>;9 76 cm de haut, c'est...;une table de ping-pong;une table de billard;une table de air hockey;table de babyfoot
+<Sport>;A quelle vitesse peut courir un levrier ?;60km/h;50km/h;70km/h;80km/h
+<Science>;Combien de paires de côtes possede-t-on ?;Douze paires;Quatorze paires;Huit paires;Dix paires
+<Science>;Quel gaz fait la majeure partie de l'atmosphere de la Terre?;Azote;Gaz carbonique;oxygene;hydrogene
+<Science>;La nanotechnologie traite beaucoup de choses qui sont extremement ...;petite;grande;chaude;froide
+<Science>;La flexion des rayons lumineux quand ils penetrent dans un autre medium est connue sous le nom;Refraction;Radiation;Reflexion;Convection 
+<Science>;Qu'est-ce que cette declaration definit "le rythme de changement de position dans a une direction fixe" ?;Velocite;Acceleration;Vitesse;elan 
+<Science>;Quel est le nom donne a la bande de sept couleurs formees par le fractionnement de la lumiere blanche, par un prisme ?;Spectre;Arc Couleur;Bande Couleur;Bande Prisme 
+<Science>;Lequel des suivants est attire par un aimant ?;Fer;Verre;Cuir;Sodium    
+<Science>;Quelle est la vitesse du son dans l'air en metres par seconde (a une pression de l'atmosphere 1 et une temperature de 25°C) ?;330;110;490;230 
+<Science>;Quel est le nom du point ou les rayons lumineux de l'infini convergent apres avoir traverse une lentille?;Foyer;Centre;Parabole;Infini
+<Science>;Qui a invente'Paratonnerre' ?;Benjamin Franklin;Thomas Alva Edison;John Logie Baird;Orville Wright et Wilbur Wright
+<Science>;Qui a invente'Thermometre a Mercure' ?;Fahrenheit;Sir Alexander Graham Bell;Charles Macintosh;Thomas Alva Edison
+<Science>;Qui a invente'Pneus Pneumatiques' ?;John Boyd Dunlop;Rudolf Diesel;Samuel Morse;Thomas Alva Edison 
+<Science>;Qui a invente'Machine a Vapeur' ?;James Watt;King Gillette;Thomas Alva Edison;Benjamin Franklin
+<Science>;Qui a invente'Telegraphe electrique' ?;Samuel Morse;Charles Goodyear;King Gillette;Alfred  Nobel
+<Science>;La capacite d'un disque dur est mesuree en;Giga-octets;MHz;52X;Mbps
+<Science>;Lequel n'est pas un fabricant de l'ordinateur ?;Microsoft;Apple;Sun;IBM
+<Science>;Quelle entreprise est celebre pour la fabrication de processeurs d'ordinateur ?;Intel;Sony;Macromedia;Corel
+<Science>;Lequel sera requis pour ecouter de la <Musique> sur l'ordinateur ?;Carte son;Carte video;Manche a balai;Souris
+<Science>;Environ combien d'octets font un mega-octet?;1 million;cent;dix mille;mille
+<Science>;Quel appareil permet a un ordinateur de parler avec un autres ordinateurs via une ligne telephonique ainsi que d'acceder a internet ?;Modem;RAM;CD-ROM drive;Disque dur
+<Science>;Quelle partie de l'ordinateur est son 'cerveau' ?;CPU;ROM;RAM;Moniteur 
+<Geographie>;quelle est la plus grande ile du monde ?;Australie;Grande Bretagne;Groenland;Madagascar
+<Geographie>;Un meandre est :;une sinuosite decrite par un cours d'eau;une vallee glaciaire;un petit vallonnement;une grotte souterraine
+<Geographie>;Quelle est la plus grande mer du monde ?;la Mediterranee;la mer Caspienne;la mer Morte;la mer Rouge
+<Geographie>;Quelle est la chaine de montagnes qui « ferme » l'Europe a l'est ?;les Alpes;le Caucase;l'Oural;l'Altaï
+<Geographie>;Dans quelle ville sont situees les plus celebres falaises de France ?;etretat;Nice;Brest;Saint-Malo
+<Geographie>;Quelle est la capitale du Bangladesh ?;Dhaka;Pekin;Paris;Kuala Lumpur
+<Geographie>;De quel pays Minsk est elle la capitale?;Bielorussie;Lettonie;Russie;Lituanie 
+<Geographie>;Quel est le plus grand pays du monde ?;Russie;Canada;USA;Sahara
+<Geographie>;Quel est le plus petit pays du monde ?;Vatican;Monaco;Andorre;Liechtenstein
+<Geographie>;De quel pays Vaduz est elle la capitale ?;Liechtenstein;France;Luxembourg;Norvege
+<Geographie>;Quelle est la capitale de la Nouvelle-Zelande ?;Wellington;Dublin;Auckland;Sydney
+<Geographie>;Ou le trouve le volcan Olympus Mons ?;Sur Mars;Sur la Lune;L'Himalaya;Dans l'Ocean Arctique
+<Geographie>;Quel pays a pour capitale Sofia ?;Bulgarie;Bielorussie;Ukraine;Moldavie
+<Geographie>;Ou se trouve le lac le plus haut du monde ?;Dans la cordillere des Andes;Sur le Kilimandjaro;Au Nevada;Au Nepal
+<Geographie>;Dans quel pays est enclavee la Republique de Saint-Marin ?;L'Italie;La Suisse;La France;L'Autriche
+<Geographie>;Quel detroit relie la mer Noire et la mer de Marmara ?;Bosphore;Beiring;Panama;Gibraltar
+<Geographie>;Dans quelle ville siege la Commission europeenne ?;Bruxelles;Luxembourg;Berlin;Strasbourg
+<Geographie>;Quel canal relie la Mediterranee a la Mer Rouge ?;Suez;Panama;Beagle;Bristol
+<Geographie>;Quel ocean separe l'Europe des etats-Unis ?;Atlantique;Pacifique;Indien;Antarctique
+<Geographie>;Dans quel pays se trouve la Foret-Noire ?;En Allemagne;En Argentine;Au Senegal;Au Canada
+<Geographie>;Quel pays a pour capitale Oulan-Bator ?;Mongolie;Montenegro;Panama;Ouzbekistan
+<Geographie>;Ou peut-on admirer les roches de l'Ayers Rock ?;En Australie;Aux etats-Unis;En Chine;En Russie
+<Geographie>;Quelle est la capitale du Pakistan ?;Islamabad;Mogadiscio;Kaboul;Karachi
+<Histoire>;Quel autre pays etait allie a la bulgarie a l’autriche-hongrie et a l’empire ottoman lors de la premiere guerre mondiale ?;Allemagne;France;Italy;Pologne 
+<Histoire>;Aux USA, dans les annees 1950, le maccarthysme fut une campagne virulente contre :;les communistes;les Noirs;les homosexuels;les Japonais
+<Histoire>;Les jeunes hommes favoris du roi Henri III s'appelaient :;les mignons;les gentils;les galants;les jolis
+<Histoire>;L'ancien peuple Azteque vivait dans l'actuel :;Mexique;Perou;Bresil;Nicaragua
+<Histoire>;On doit le Code civil a :;Napoleon Bonaparte;Leon Gambetta;Robespierre;Charles de Gaulle
+<Histoire>;Les Khmers Rouges etaient des guerilleros communistes :;cambodgiens;chinois;coreens;birmans
+<Histoire>;Qui fut le premier empereur romain ?;Auguste;Jules Cesar;Neron;Marc Antoine
+<Histoire>;Aux U.S.A, le President Bill Clinton a succede a :;George Bush;Jimmy Carter;Ronald Reagan;John F. Kennedy
+<Histoire>;Quelle maladie se propagea a la fin de la premiere guerre mondiale et fit plusieurs millions de morts ?;la grippe espagnole;la siphilis;la variole;la tuberculose
+<Histoire>;Au Moyen-Age, quel etait le nom de l'impôt verse a l'Eglise catholique ?;la dime;la gabelle;le cens;l'octroi
+<Histoire>;Le titre de Caudillo designait :;Franco;Mussolini;Che Guevara;Salazar
+<Histoire>;Quelle capitale actuelle etait appelee "Philadelphia" du temps des Romains ?;Amman;Teheran;Damas;Bagdad
+<Histoire>;Que fete t-on le 14 juillet en France ?;La fete de la federation;L'armistice de la guerre 14-18;Le debut de la V° republique;La prise de la Bastille
+<CultureGenerale>;Comment appelle-t-on un terrain plante d'arbres fruitiers ?;un verger;un potager;un bosquet;un fruitier
+<CultureGenerale>;Au Moyen-Âge, comment appelait-on les villages fortifies ?;Bastide;Tour;Château fort;Rempart
+<CultureGenerale>;Comment appelle-t-on le fruit du plaqueminier ?;Kaki;Kakou;Kacha;Kali
+<CultureGenerale>;Quel titre de noblesse est immediatement inferieur a celui de comte ?;Vicomte;Archiduc;Marquis;Duc
+<CultureGenerale>;De qui Warren Beatty est-il le frere ?;Shirley MacLaine;Elle Macpherson;Aline MacMahon;Ann-Marie MacDonald
+<CultureGenerale>;Quel os du squelette humain est le plus long et le plus solide ?;Le femur;Le radius;Le cubitus;Le carpe
+<CultureGenerale>;Quel arbre est connu pour etre le plus grand au monde ?;Le sequoia;Le chene;Le pin;Le hetre
+<CultureGenerale>;De quelle plante le nom signifie-t-il « turban » en perse ?;La tulipe;La digitale;La renoncule;La jonquille
+<CultureGenerale>;Dans le langage familier, comment appelle-t-on la dent du petit enfant ?;Quenotte;Marmotte;Menotte;Bouillotte
+<CultureGenerale>;Quel peintre, ne en 1844, est egalement appele « le Douanier » ?;Henri Rousseau;Pablo Picasso;Edgar Degas;Salvador Dali
+<CultureGenerale>;Comment appelle-t-on le versant de la montagne non situe au soleil ?;Ubac;Adret;etant;Ressac
+<CultureGenerale>;Quelle est la plus petite unite de memoire utilisable sur un ordinateur ?;Le bit;Le byte;Le mega;Le giga
+<CultureGenerale>;Quel insecte appelle-t-on aussi « la bete a bon dieu » ?;La coccinelle;La luciole;Le scarabee;La libellule
+<CultureGenerale>;Qui fut le premier europeen a arriver aux Philippines ?;Magellan;Christophe Colomb;Vasco de Gama;Mauperthuis
+<CultureGenerale>;Combien de temps dure le mandat du president des etats-Unis ?;4 ans;5 ans;7 ans;6 ans
+<CultureGenerale>;Qui a invente les tran<Sport>s en communs modernes ?;Blaise Pascal;Seraphin Lampion;Rene Descartes;Eugene Poubelle
+<CultureGenerale>;Qui etait le premier president de la republique ?;Louis-Napoleon Bonaparte;Adolphe Thiers;Charles de Gaulle;Raymond Poincare
+<CultureGenerale>;Quelle est l'unite de mesure de la force d'un piment ?;L'unite scoville;L'unite thermoptim;L'unite cherit;L'unite hauy
+<CultureGenerale>;Quel est la valeur du pH du Coca-Cola ?;5;4,2,3;5,3;7
+<CultureGenerale>;Comment se nomme le signe "&" ?;Esperluette;Heperluette;Eperluette;Eperluete
+<CultureGenerale>;Comment se nomme la peur du nombre 13 ?;La triskaidekaphobie;La katagelophobie;L'anuptaphobie;La siderodromophobie
+<Cinema>;En quelle annee le festival de Cannes fut-il cree ?;1946;1936;1939;1930
+<Cinema>;Lequel de ces episodes ne fait pas partie de la celebre serie des Indiana Jones ?;Indiana Jones et le globe de cristal;Indiana Jones et le temple maudit;Les aventuriers de l'arche perdue;Indiana Jones et la Derniere Croisade
+<Cinema>;Quel film est le plus gros succes du box-office français ?;Titanic;La grande vadrouille;Bienvenue chez les Ch'tis;Intouchables
+<Cinema>;Quel film est le plus gros succes du box-office americain ?;Titanic;Ben-Hur;Le seigneur des anneaux : le retour du roi;la ligne verte
+<Cinema>;Quelle est la phobie de Truman Burbank dans 'The Truman Show' ?;L'eau;La foule;Les araignees;les chiens
+<Cinema>;Qui est l'acteur 'fetiche' de Tim Burton ?;Johnny Depp;Deep Roy;Christopher Lee;Edgar Allan Poe
+<Cinema>;Quel est le pseudonyme du heros de Matrix, interprete par Keanu Reeves ?;Neo;Trinity;Morpheus;l'Oracle
+<Cinema>;Quel est le film le plus cher de l'<Histoire> du cinema ?;Spiderman 3;Titanic;Cleopâtre;Avatar
+<Cinema>;Avec quel film Orson Welles remporte-t-il la plame d'or en 1952 ?;Othello;Citizen Kane;Deux sous d'espoir;Le Proces
+<Cinema>;Quel film se deroule a Paris ?;Moulin rouge;Goodbye, Lenin !;Delirious;La corde
+<Cinema>;Quel realisateur a le plus grand nombre de films mentionnes dans le top 100 de l'American Film Institute ?;Steven Spielberg;George Lucas;James Cameron;Tim Burton
+<Cinema>;Dans quel film un couple en croisiere va-t-il recueillir un naufrage qui va les terrifier ?;Calme blanc;Tempete en mer;Le naufrage;Les disparus
+<Cinema>;Quel acteur français avait le premier rôle dans le film de Luchino Visconti "Le Guepard" ?;Alain Delon;Jean-Paul Belmondo;Claude Brasseur;Jean Gabin
+<Cinema>;Qui joue le rôle du nettoyeur dans le film "Nikita" ?;Jean Reno;Jean-Marc Barr;Tcheky Karyo;Jean-Hugues Anglade
+<Cinema>;Dans quelles aventures retrouve-t-on les personnages de Loïs et Clark ?;Superman;Hulk;Spiderman;Batman
+<Cinema>;Quel est le prenom de Kate Winslet dans le film "Titanic" de James Cameron ?;Rose;Liz;Carla;Jeanne
+<Cinema>;Qui joua le rôle de Donna Martin dans la serie televisee "Beverly Hills 90210" ?;Tori Spelling;Carol Potter;Jenny Garth;Tiffany Amber Thiessen
+<Musique>;Qu'est-ce qu'un chant a capella ?;Un chant sans accompagnement d'aucun instrument;Un chant execute dans une chapelle;Un chant accompagne de flûtes;Un chant religieux
+<Musique>;Quelle est la voix d'homme la plus elevee ?;La haute-contre;La basse;La baryton;Le tenor
+<Musique>;En regle generale, combien d'octaves un piano comporte-il ?;8;6;7;7et demi
+<Musique>;A quelle epoque, les premieres baguettes des chefs d'orchestre sont-elles apparues ?;A l'epoque classique;Au Moyen-Age;A l'epoque baroque;A la Renaissance
+<Musique>;Lequel de ces operas n'est pas de Mozart ?;La Traviata;Cosi fan tutte;Don Giovanni;Les Noces de Figaro
+<Musique>;L'Hymne a la joie, choisi pour etre l'Hymne europeen, est la seule partie chantee d'une oeuvre de Beethoven, de quelle oeuvre s'agit-il ?;La symphonie n°9;La symphonie n°5;La symphonie n°7;La symphonie n°6
+<Musique>;Maria Callas (1923-1977), etait l'une des plus grandes cantatrices du XXe siecle, celebre en particulier pour son interpretation talentueuse de La Traviata, de quelle origine etait-elle ?;Grecque;Italienne;Russe;Libanaise
+<Musique>;Avec quel courant musical la batterie est-elle nee ?;Le jazz;Le romantisme;Le blues;Le rock
+<Musique>;Qui chantait:' Love me tender '?;Elvis Presley;Bill Haley;Jerry Lee Lewis;Chuck Berry
+<Musique>;Qui chantait:'J' suis le pornographe du phonographe, le polisson de la chanson ' ?;Georges Brassens;Serge Gainsbourg;Renaud;Leo Ferre
+<Musique>;Dans les annees 1980, quel groupe musical a chante le titre "Shout" ?;Tears For Fears;Queen;U2;Simple Minds
+<Sport>;De combien de joueurs se compose une equipe de basket-ball ?;5;6;11;7
+<Sport>;Split, Spare, Strike... Vous pouvez entendre ces termes...;au bowling;au football americain;au billard;au basket-ball
+<Sport>;La premiere course automobile officielle s'etant deroulee en 1895 (Paris-Bordeaux-Paris), en quelle annee a ete rendu obligatoire le port du casque ?;1952;1950;1949;1955
+<Sport>;Quelle est la largeur d'un but de football ?;7,32 m;7,40 m;6,10 m;8,00 m
+<Sport>;Quel est le nombre maximum de rameurs en Aviron ?;8;7;9;6
+<Sport>;Avant le combat, que jettent les sumotoris au centre de la piste ?;du sel;du sucre;du poivre;de la poudre
+<Sport>;Combien de periodes compte un match de hockey sur glace ?;3;2;4;5
+<Sport>;"Field Goal", "Kick off", "Touchdown" sont des termes de ...;football americain;tennis;handball;basketball
+<Sport>;Le score maximum pour une partie de bowling est de :;300;200;250;350
+<Sport>;Avant de prendre le rôle de Tarzan, John Weissmuller etait champion...;de natation;de judo;de boxe;de karate
+<Sport>;9 76 cm de haut, c'est...;une table de ping-pong;une table de billard;une table de air hockey;table de babyfoot
+<Sport>;A quelle vitesse peut courir un levrier ?;60km/h;50km/h;70km/h;80km/h
+<Science>;Combien de paires de côtes possede-t-on ?;Douze paires;Quatorze paires;Huit paires;Dix paires
+<Science>;Quel gaz fait la majeure partie de l'atmosphere de la Terre?;Azote;Gaz carbonique;oxygene;hydrogene
+<Science>;La nanotechnologie traite beaucoup de choses qui sont extremement ...;petite;grande;chaude;froide
+<Science>;La flexion des rayons lumineux quand ils penetrent dans un autre medium est connue sous le nom;Refraction;Radiation;Reflexion;Convection 
+<Science>;Qu'est-ce que cette declaration definit "le rythme de changement de position dans a une direction fixe" ?;Velocite;Acceleration;Vitesse;elan 
+<Science>;Quel est le nom donne a la bande de sept couleurs formees par le fractionnement de la lumiere blanche, par un prisme ?;Spectre;Arc Couleur;Bande Couleur;Bande Prisme 
+<Science>;Lequel des suivants est attire par un aimant ?;Fer;Verre;Cuir;Sodium    
+<Science>;Quelle est la vitesse du son dans l'air en metres par seconde (a une pression de l'atmosphere 1 et une temperature de 25°C) ?;330;110;490;230 
+<Science>;Quel est le nom du point ou les rayons lumineux de l'infini convergent apres avoir traverse une lentille?;Foyer;Centre;Parabole;Infini
+<Science>;Qui a invente'Paratonnerre' ?;Benjamin Franklin;Thomas Alva Edison;John Logie Baird;Orville Wright et Wilbur Wright
+<Science>;Qui a invente'Thermometre a Mercure' ?;Fahrenheit;Sir Alexander Graham Bell;Charles Macintosh;Thomas Alva Edison
+<Science>;Qui a invente'Pneus Pneumatiques' ?;John Boyd Dunlop;Rudolf Diesel;Samuel Morse;Thomas Alva Edison 
+<Science>;Qui a invente'Machine a Vapeur' ?;James Watt;King Gillette;Thomas Alva Edison;Benjamin Franklin
+<Science>;Qui a invente'Telegraphe electrique' ?;Samuel Morse;Charles Goodyear;King Gillette;Alfred  Nobel
+<Science>;La capacite d'un disque dur est mesuree en;Giga-octets;MHz;52X;Mbps
+<Science>;Lequel n'est pas un fabricant de l'ordinateur ?;Microsoft;Apple;Sun;IBM
+<Science>;Quelle entreprise est celebre pour la fabrication de processeurs d'ordinateur ?;Intel;Sony;Macromedia;Corel
+<Science>;Lequel sera requis pour ecouter de la <Musique> sur l'ordinateur ?;Carte son;Carte video;Manche a balai;Souris
+<Science>;Environ combien d'octets font un mega-octet?;1 million;cent;dix mille;mille
+<Science>;Quel appareil permet a un ordinateur de parler avec un autres ordinateurs via une ligne telephonique ainsi que d'acceder a internet ?;Modem;RAM;CD-ROM drive;Disque dur
+<Science>;Quelle partie de l'ordinateur est son 'cerveau' ?;CPU;ROM;RAM;Moniteur 
+<Geographie>;quelle est la plus grande ile du monde ?;Australie;Grande Bretagne;Groenland;Madagascar
+<Geographie>;Un meandre est :;une sinuosite decrite par un cours d'eau;une vallee glaciaire;un petit vallonnement;une grotte souterraine
+<Geographie>;Quelle est la plus grande mer du monde ?;la Mediterranee;la mer Caspienne;la mer Morte;la mer Rouge
+<Geographie>;Quelle est la chaine de montagnes qui « ferme » l'Europe a l'est ?;les Alpes;le Caucase;l'Oural;l'Altaï
+<Geographie>;Dans quelle ville sont situees les plus celebres falaises de France ?;etretat;Nice;Brest;Saint-Malo
+<Geographie>;Quelle est la capitale du Bangladesh ?;Dhaka;Pekin;Paris;Kuala Lumpur
+<Geographie>;De quel pays Minsk est elle la capitale?;Bielorussie;Lettonie;Russie;Lituanie 
+<Geographie>;Quel est le plus grand pays du monde ?;Russie;Canada;USA;Sahara
+<Geographie>;Quel est le plus petit pays du monde ?;Vatican;Monaco;Andorre;Liechtenstein
+<Geographie>;De quel pays Vaduz est elle la capitale ?;Liechtenstein;France;Luxembourg;Norvege
+<Geographie>;Quelle est la capitale de la Nouvelle-Zelande ?;Wellington;Dublin;Auckland;Sydney
+<Geographie>;Ou le trouve le volcan Olympus Mons ?;Sur Mars;Sur la Lune;L'Himalaya;Dans l'Ocean Arctique
+<Geographie>;Quel pays a pour capitale Sofia ?;Bulgarie;Bielorussie;Ukraine;Moldavie
+<Geographie>;Ou se trouve le lac le plus haut du monde ?;Dans la cordillere des Andes;Sur le Kilimandjaro;Au Nevada;Au Nepal
+<Geographie>;Dans quel pays est enclavee la Republique de Saint-Marin ?;L'Italie;La Suisse;La France;L'Autriche
+<Geographie>;Quel detroit relie la mer Noire et la mer de Marmara ?;Bosphore;Beiring;Panama;Gibraltar
+<Geographie>;Dans quelle ville siege la Commission europeenne ?;Bruxelles;Luxembourg;Berlin;Strasbourg
+<Geographie>;Quel canal relie la Mediterranee a la Mer Rouge ?;Suez;Panama;Beagle;Bristol
+<Geographie>;Quel ocean separe l'Europe des etats-Unis ?;Atlantique;Pacifique;Indien;Antarctique
+<Geographie>;Dans quel pays se trouve la Foret-Noire ?;En Allemagne;En Argentine;Au Senegal;Au Canada
+<Geographie>;Quel pays a pour capitale Oulan-Bator ?;Mongolie;Montenegro;Panama;Ouzbekistan
+<Geographie>;Ou peut-on admirer les roches de l'Ayers Rock ?;En Australie;Aux etats-Unis;En Chine;En Russie
+<Geographie>;Quelle est la capitale du Pakistan ?;Islamabad;Mogadiscio;Kaboul;Karachi
+<Histoire>;Quel autre pays etait allie a la bulgarie a l’autriche-hongrie et a l’empire ottoman lors de la premiere guerre mondiale ?;Allemagne;France;Italy;Pologne 
+<Histoire>;Aux USA, dans les annees 1950, le maccarthysme fut une campagne virulente contre :;les communistes;les Noirs;les homosexuels;les Japonais
+<Histoire>;Les jeunes hommes favoris du roi Henri III s'appelaient :;les mignons;les gentils;les galants;les jolis
+<Histoire>;L'ancien peuple Azteque vivait dans l'actuel :;Mexique;Perou;Bresil;Nicaragua
+<Histoire>;On doit le Code civil a :;Napoleon Bonaparte;Leon Gambetta;Robespierre;Charles de Gaulle
+<Histoire>;Les Khmers Rouges etaient des guerilleros communistes :;cambodgiens;chinois;coreens;birmans
+<Histoire>;Qui fut le premier empereur romain ?;Auguste;Jules Cesar;Neron;Marc Antoine
+<Histoire>;Aux U.S.A, le President Bill Clinton a succede a :;George Bush;Jimmy Carter;Ronald Reagan;John F. Kennedy
+<Histoire>;Quelle maladie se propagea a la fin de la premiere guerre mondiale et fit plusieurs millions de morts ?;la grippe espagnole;la siphilis;la variole;la tuberculose
+<Histoire>;Au Moyen-Age, quel etait le nom de l'impôt verse a l'Eglise catholique ?;la dime;la gabelle;le cens;l'octroi
+<Histoire>;Le titre de Caudillo designait :;Franco;Mussolini;Che Guevara;Salazar
+<Histoire>;Quelle capitale actuelle etait appelee "Philadelphia" du temps des Romains ?;Amman;Teheran;Damas;Bagdad
+<Histoire>;Que fete t-on le 14 juillet en France ?;La fete de la federation;L'armistice de la guerre 14-18;Le debut de la V° republique;La prise de la Bastille
+<CultureGenerale>;Comment appelle-t-on un terrain plante d'arbres fruitiers ?;un verger;un potager;un bosquet;un fruitier
+<CultureGenerale>;Au Moyen-Âge, comment appelait-on les villages fortifies ?;Bastide;Tour;Château fort;Rempart
+<CultureGenerale>;Comment appelle-t-on le fruit du plaqueminier ?;Kaki;Kakou;Kacha;Kali
+<CultureGenerale>;Quel titre de noblesse est immediatement inferieur a celui de comte ?;Vicomte;Archiduc;Marquis;Duc
+<CultureGenerale>;De qui Warren Beatty est-il le frere ?;Shirley MacLaine;Elle Macpherson;Aline MacMahon;Ann-Marie MacDonald
+<CultureGenerale>;Quel os du squelette humain est le plus long et le plus solide ?;Le femur;Le radius;Le cubitus;Le carpe
+<CultureGenerale>;Quel arbre est connu pour etre le plus grand au monde ?;Le sequoia;Le chene;Le pin;Le hetre
+<CultureGenerale>;De quelle plante le nom signifie-t-il « turban » en perse ?;La tulipe;La digitale;La renoncule;La jonquille
+<CultureGenerale>;Dans le langage familier, comment appelle-t-on la dent du petit enfant ?;Quenotte;Marmotte;Menotte;Bouillotte
+<CultureGenerale>;Quel peintre, ne en 1844, est egalement appele « le Douanier » ?;Henri Rousseau;Pablo Picasso;Edgar Degas;Salvador Dali
+<CultureGenerale>;Comment appelle-t-on le versant de la montagne non situe au soleil ?;Ubac;Adret;etant;Ressac
+<CultureGenerale>;Quelle est la plus petite unite de memoire utilisable sur un ordinateur ?;Le bit;Le byte;Le mega;Le giga
+<CultureGenerale>;Quel insecte appelle-t-on aussi « la bete a bon dieu » ?;La coccinelle;La luciole;Le scarabee;La libellule
+<CultureGenerale>;Qui fut le premier europeen a arriver aux Philippines ?;Magellan;Christophe Colomb;Vasco de Gama;Mauperthuis
+<CultureGenerale>;Combien de temps dure le mandat du president des etats-Unis ?;4 ans;5 ans;7 ans;6 ans
+<CultureGenerale>;Qui a invente les tran<Sport>s en communs modernes ?;Blaise Pascal;Seraphin Lampion;Rene Descartes;Eugene Poubelle
+<CultureGenerale>;Qui etait le premier president de la republique ?;Louis-Napoleon Bonaparte;Adolphe Thiers;Charles de Gaulle;Raymond Poincare
+<CultureGenerale>;Quelle est l'unite de mesure de la force d'un piment ?;L'unite scoville;L'unite thermoptim;L'unite cherit;L'unite hauy
+<CultureGenerale>;Quel est la valeur du pH du Coca-Cola ?;5;4,2,3;5,3;7
+<CultureGenerale>;Comment se nomme le signe "&" ?;Esperluette;Heperluette;Eperluette;Eperluete
+<CultureGenerale>;Comment se nomme la peur du nombre 13 ?;La triskaidekaphobie;La katagelophobie;L'anuptaphobie;La siderodromophobie
+<Cinema>;En quelle annee le festival de Cannes fut-il cree ?;1946;1936;1939;1930
+<Cinema>;Lequel de ces episodes ne fait pas partie de la celebre serie des Indiana Jones ?;Indiana Jones et le globe de cristal;Indiana Jones et le temple maudit;Les aventuriers de l'arche perdue;Indiana Jones et la Derniere Croisade
+<Cinema>;Quel film est le plus gros succes du box-office français ?;Titanic;La grande vadrouille;Bienvenue chez les Ch'tis;Intouchables
+<Cinema>;Quel film est le plus gros succes du box-office americain ?;Titanic;Ben-Hur;Le seigneur des anneaux : le retour du roi;la ligne verte
+<Cinema>;Quelle est la phobie de Truman Burbank dans 'The Truman Show' ?;L'eau;La foule;Les araignees;les chiens
+<Cinema>;Qui est l'acteur 'fetiche' de Tim Burton ?;Johnny Depp;Deep Roy;Christopher Lee;Edgar Allan Poe
+<Cinema>;Quel est le pseudonyme du heros de Matrix, interprete par Keanu Reeves ?;Neo;Trinity;Morpheus;l'Oracle
+<Cinema>;Quel est le film le plus cher de l'<Histoire> du cinema ?;Spiderman 3;Titanic;Cleopâtre;Avatar
+<Cinema>;Avec quel film Orson Welles remporte-t-il la plame d'or en 1952 ?;Othello;Citizen Kane;Deux sous d'espoir;Le Proces
+<Cinema>;Quel film se deroule a Paris ?;Moulin rouge;Goodbye, Lenin !;Delirious;La corde
+<Cinema>;Quel realisateur a le plus grand nombre de films mentionnes dans le top 100 de l'American Film Institute ?;Steven Spielberg;George Lucas;James Cameron;Tim Burton
+<Cinema>;Dans quel film un couple en croisiere va-t-il recueillir un naufrage qui va les terrifier ?;Calme blanc;Tempete en mer;Le naufrage;Les disparus
+<Cinema>;Quel acteur français avait le premier rôle dans le film de Luchino Visconti "Le Guepard" ?;Alain Delon;Jean-Paul Belmondo;Claude Brasseur;Jean Gabin
+<Cinema>;Qui joue le rôle du nettoyeur dans le film "Nikita" ?;Jean Reno;Jean-Marc Barr;Tcheky Karyo;Jean-Hugues Anglade
+<Cinema>;Dans quelles aventures retrouve-t-on les personnages de Loïs et Clark ?;Superman;Hulk;Spiderman;Batman
+<Cinema>;Quel est le prenom de Kate Winslet dans le film "Titanic" de James Cameron ?;Rose;Liz;Carla;Jeanne
+<Cinema>;Qui joua le rôle de Donna Martin dans la serie televisee "Beverly Hills 90210" ?;Tori Spelling;Carol Potter;Jenny Garth;Tiffany Amber Thiessen
+<Musique>;Qu'est-ce qu'un chant a capella ?;Un chant sans accompagnement d'aucun instrument;Un chant execute dans une chapelle;Un chant accompagne de flûtes;Un chant religieux
+<Musique>;Quelle est la voix d'homme la plus elevee ?;La haute-contre;La basse;La baryton;Le tenor
+<Musique>;En regle generale, combien d'octaves un piano comporte-il ?;8;6;7;7et demi
+<Musique>;A quelle epoque, les premieres baguettes des chefs d'orchestre sont-elles apparues ?;A l'epoque classique;Au Moyen-Age;A l'epoque baroque;A la Renaissance
+<Musique>;Lequel de ces operas n'est pas de Mozart ?;La Traviata;Cosi fan tutte;Don Giovanni;Les Noces de Figaro
+<Musique>;L'Hymne a la joie, choisi pour etre l'Hymne europeen, est la seule partie chantee d'une oeuvre de Beethoven, de quelle oeuvre s'agit-il ?;La symphonie n°9;La symphonie n°5;La symphonie n°7;La symphonie n°6
+<Musique>;Maria Callas (1923-1977), etait l'une des plus grandes cantatrices du XXe siecle, celebre en particulier pour son interpretation talentueuse de La Traviata, de quelle origine etait-elle ?;Grecque;Italienne;Russe;Libanaise
+<Musique>;Avec quel courant musical la batterie est-elle nee ?;Le jazz;Le romantisme;Le blues;Le rock
+<Musique>;Qui chantait:' Love me tender '?;Elvis Presley;Bill Haley;Jerry Lee Lewis;Chuck Berry
+<Musique>;Qui chantait:'J' suis le pornographe du phonographe, le polisson de la chanson ' ?;Georges Brassens;Serge Gainsbourg;Renaud;Leo Ferre
+<Musique>;Dans les annees 1980, quel groupe musical a chante le titre "Shout" ?;Tears For Fears;Queen;U2;Simple Minds
+<Sport>;De combien de joueurs se compose une equipe de basket-ball ?;5;6;11;7
+<Sport>;Split, Spare, Strike... Vous pouvez entendre ces termes...;au bowling;au football americain;au billard;au basket-ball
+<Sport>;La premiere course automobile officielle s'etant deroulee en 1895 (Paris-Bordeaux-Paris), en quelle annee a ete rendu obligatoire le port du casque ?;1952;1950;1949;1955
+<Sport>;Quelle est la largeur d'un but de football ?;7,32 m;7,40 m;6,10 m;8,00 m
+<Sport>;Quel est le nombre maximum de rameurs en Aviron ?;8;7;9;6
+<Sport>;Avant le combat, que jettent les sumotoris au centre de la piste ?;du sel;du sucre;du poivre;de la poudre
+<Sport>;Combien de periodes compte un match de hockey sur glace ?;3;2;4;5
+<Sport>;"Field Goal", "Kick off", "Touchdown" sont des termes de ...;football americain;tennis;handball;basketball
+<Sport>;Le score maximum pour une partie de bowling est de :;300;200;250;350
+<Sport>;Avant de prendre le rôle de Tarzan, John Weissmuller etait champion...;de natation;de judo;de boxe;de karate
+<Sport>;9 76 cm de haut, c'est...;une table de ping-pong;une table de billard;une table de air hockey;table de babyfoot
+<Sport>;A quelle vitesse peut courir un levrier ?;60km/h;50km/h;70km/h;80km/h
+<Science>;Combien de paires de côtes possede-t-on ?;Douze paires;Quatorze paires;Huit paires;Dix paires
+<Science>;Quel gaz fait la majeure partie de l'atmosphere de la Terre?;Azote;Gaz carbonique;oxygene;hydrogene
+<Science>;La nanotechnologie traite beaucoup de choses qui sont extremement ...;petite;grande;chaude;froide
+<Science>;La flexion des rayons lumineux quand ils penetrent dans un autre medium est connue sous le nom;Refraction;Radiation;Reflexion;Convection 
+<Science>;Qu'est-ce que cette declaration definit "le rythme de changement de position dans a une direction fixe" ?;Velocite;Acceleration;Vitesse;elan 
+<Science>;Quel est le nom donne a la bande de sept couleurs formees par le fractionnement de la lumiere blanche, par un prisme ?;Spectre;Arc Couleur;Bande Couleur;Bande Prisme 
+<Science>;Lequel des suivants est attire par un aimant ?;Fer;Verre;Cuir;Sodium    
+<Science>;Quelle est la vitesse du son dans l'air en metres par seconde (a une pression de l'atmosphere 1 et une temperature de 25°C) ?;330;110;490;230 
+<Science>;Quel est le nom du point ou les rayons lumineux de l'infini convergent apres avoir traverse une lentille?;Foyer;Centre;Parabole;Infini
+<Science>;Qui a invente'Paratonnerre' ?;Benjamin Franklin;Thomas Alva Edison;John Logie Baird;Orville Wright et Wilbur Wright
+<Science>;Qui a invente'Thermometre a Mercure' ?;Fahrenheit;Sir Alexander Graham Bell;Charles Macintosh;Thomas Alva Edison
+<Science>;Qui a invente'Pneus Pneumatiques' ?;John Boyd Dunlop;Rudolf Diesel;Samuel Morse;Thomas Alva Edison 
+<Science>;Qui a invente'Machine a Vapeur' ?;James Watt;King Gillette;Thomas Alva Edison;Benjamin Franklin
+<Science>;Qui a invente'Telegraphe electrique' ?;Samuel Morse;Charles Goodyear;King Gillette;Alfred  Nobel
+<Science>;La capacite d'un disque dur est mesuree en;Giga-octets;MHz;52X;Mbps
+<Science>;Lequel n'est pas un fabricant de l'ordinateur ?;Microsoft;Apple;Sun;IBM
+<Science>;Quelle entreprise est celebre pour la fabrication de processeurs d'ordinateur ?;Intel;Sony;Macromedia;Corel
+<Science>;Lequel sera requis pour ecouter de la <Musique> sur l'ordinateur ?;Carte son;Carte video;Manche a balai;Souris
+<Science>;Environ combien d'octets font un mega-octet?;1 million;cent;dix mille;mille
+<Science>;Quel appareil permet a un ordinateur de parler avec un autres ordinateurs via une ligne telephonique ainsi que d'acceder a internet ?;Modem;RAM;CD-ROM drive;Disque dur
+<Science>;Quelle partie de l'ordinateur est son 'cerveau' ?;CPU;ROM;RAM;Moniteur 

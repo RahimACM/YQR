@@ -1,0 +1,7 @@
+<science>;sq1;sr1;sr2;sr3;sr4
+<histoire>;hq1;hr1;hp1;hp2;hp3
+<georgraphie>;gq2;gr1;gp1;gp2;gp3
+<sport>;spq3;spr1;spp1;spp2;spp3
+<cinema>;ciq4;cir1;cip1;cip2;cip3
+<musique>;mq5;mr1;mp1;mp2;mp3
+<culture>;c7;cr1;cp1;cp2;cp3
